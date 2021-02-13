@@ -42,3 +42,8 @@ CREATE TABLE titles (
 	PRIMARY KEY (emp_no)
 );
 SELECT * FROM departments;
+SELECT * FROM dept_manager;	
+SELECT * FROM employees;
+SELECT * FROM salaries;
+SELECT * FROM Dept_emp;
+SELECT * FROM titles;
